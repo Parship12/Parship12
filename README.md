@@ -16,8 +16,6 @@
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" style="height: 30px; width: 30px;" alt="c logo" />
-  <img width="9" />
   <img src="https://skillicons.dev/icons?i=cpp" style="height: 30px; width: 30px;" alt="cpp logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=javascript" style="height: 30px; width: 30px;" alt="javascript logo" />
@@ -39,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=redux" style="height: 30px; width: 30px;" alt="redux logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" style="height: 30px; width: 30px;" alt="kubernetes logo" />
 </div>
 
 
