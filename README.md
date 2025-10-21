@@ -38,17 +38,3 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
 </div>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/parship123" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parship123" height="30" width="45" />
-  </a>
-  <a href="https://linkedin.com/in/parship-chowdhury-40a37728b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parship-chowdhury-40a37728b" height="30" width="45" />
-  </a>
-  <a href="https://stackoverflow.com/users/29977625" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29977625" height="30" width="45" />
-  </a>
-</p>
