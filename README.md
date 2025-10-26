@@ -38,3 +38,24 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
 </div>
+
+<h3 align="left">OSS Contributions (Previous Account)</h3>
+
+<div align="left">
+
+  <a href="https://github.com/openkruise/openkruise.io/pulls?q=is%3Apr+author%3AParship999+is%3Aclosed" target="_blank">
+    <img src="https://img.shields.io/badge/OpenKruise.io%20-Frontend%20-2ea44f?style=for-the-badge&logo=javascript" />
+  </a>
+  <br>
+
+  <a href="https://github.com/jaegertracing/jaeger-ui/pulls?q=is%3Apr+author%3AParship999+is%3Aclosed" target="_blank">
+    <img src="https://img.shields.io/badge/Jaeger%20UI%20-Frontend%20-0078d7?style=for-the-badge&logo=react" />
+  </a>
+  <br>
+
+  <a href="https://github.com/jaegertracing/jaeger/pulls?q=is%3Apr+author%3AParship999+is%3Aclosed" target="_blank">
+    <img src="https://img.shields.io/badge/Jaeger%20-Backend%20-00ADD8?style=for-the-badge&logo=go" />
+  </a>
+
+</div>
+
