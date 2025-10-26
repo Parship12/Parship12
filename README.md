@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
 </div>
 
-<h3 align="left">OSS Contributions (Previous Account)</h3>
+<h3 align="left">OSS Work from My Previous GitHub Account</h3>
 
 <div align="left">
 
