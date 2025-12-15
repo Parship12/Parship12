@@ -38,8 +38,3 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
 </div>
-
-### Click the Logos to Explore My Past Work
-[<img src="https://raw.githubusercontent.com/Parship12/Parship12/6c055f110b776bd47c71f986a1198f4e3707b926/openkruise.ico" width="40" alt="OpenKruise.io Logo" />](https://github.com/openkruise/openkruise.io/pulls?q=is%3Apr+author%3AParship999+is%3Aclosed)
-<img width="0" />
-[<img src="https://raw.githubusercontent.com/Parship12/Parship12/6c055f110b776bd47c71f986a1198f4e3707b926/Jaeger_tracing_image_showing_Jeager_mascot_in_scalyr_colors.avif" width="40" alt="Jaeger UI Logo" />](https://github.com/jaegertracing/jaeger-ui/pulls?q=is%3Apr+author%3AParship999+is%3Aclosed)
