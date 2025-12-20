@@ -7,17 +7,15 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Parship Chowdhury</b> - a technology enthusiast. I'm passionate about learning new technologies and contributing on innovative <b>open-source projects</b>
+  Hi, I'm <b>Parship Chowdhury</b>. I work on both frontend and backend, mostly through <b>open-source and personal projects</b>. I enjoy debugging, reading unfamiliar codebases and making small changes that improve long-term maintainability.
 
   
-  <b>Fun fact:</b> <i>My favorite sound? The silence after hitting "run" and not seeing a single error.</i>
+  <b>Fun fact:</b> <i>I trust logs more than assumptions.</i>
 </p>
 -------------------------------------------------------------------------------------------------
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" style="height: 30px; width: 30px;" alt="cpp logo" />
-  <img width="9" />
   <img src="https://skillicons.dev/icons?i=javascript" style="height: 30px; width: 30px;" alt="javascript logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=react" style="height: 30px; width: 30px;" alt="react logo" />
