@@ -7,7 +7,7 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Parship Chowdhury</b>. I work on both frontend and backend, mostly through <b>open-source and personal projects</b>. I enjoy debugging, reading unfamiliar codebases and making small changes that improve long-term maintainability.
+  I work on both frontend and backend, mostly through <b>open-source and personal projects</b>. I enjoy debugging, reading unfamiliar codebases and making small changes that improve long-term maintainability.
 
   
   <b>Fun fact:</b> <i>I trust logs more than assumptions.</i>
