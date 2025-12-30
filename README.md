@@ -20,6 +20,8 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=react" style="height: 30px; width: 30px;" alt="react logo" />
   <img width="9" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="height: 30px; width: 30px;" alt="nextjs logo" />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=typescript" style="height: 30px; width: 30px;" alt="typescript logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=mysql" style="height: 30px; width: 30px;" alt="mysql logo" />
