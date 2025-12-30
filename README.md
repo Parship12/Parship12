@@ -26,10 +26,6 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=mongodb" style="height: 30px; width: 30px;" alt="mongodb logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" style="height: 30px; width: 30px;" alt="nodejs logo" />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" style="height: 30px; width: 30px;" alt="express logo" />
-  <img width="9" />
   <img src="https://skillicons.dev/icons?i=docker" style="height: 30px; width: 30px;" alt="docker logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=redux" style="height: 30px; width: 30px;" alt="redux logo" />
